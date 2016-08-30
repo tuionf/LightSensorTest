@@ -3,4 +3,5 @@
 光线传感器实践 
 
 # 演示 
-!(yanshi)[https://github.com/tuionf/LightSensorTest/blob/master/light.png]
+
+![yanshi](https://github.com/tuionf/LightSensorTest/blob/master/light.png)
